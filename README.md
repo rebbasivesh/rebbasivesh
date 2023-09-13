@@ -1,8 +1,6 @@
 ### Hi there 👋
-![Alt text](C:\Users\LENOVO\OneDrive - K L University\Desktop)
+![Alt text](https://kluniversityin-my.sharepoint.com/:i:/g/personal/2200040033_kluniversity_in/ERvfTYSJR7FJgcwdQ4as4DoB8eiWrPvMOAyOaQRqEeabTA?e=7pfQd8)
 
-
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 **rebbasivesh/rebbasivesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
