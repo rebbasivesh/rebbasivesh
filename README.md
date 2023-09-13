@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Alt text](file:///C:/Users/LENOVO/OneDrive%20-%20K%20L%20University/Desktop/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f312a795a3431503359644d594d697946504150727a7947772e676966.gif)
+![Alt text](https://media.tenor.com/KkykmaqyVAwAAAAC/electricwires.gif)
 
 **rebbasivesh/rebbasivesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
