@@ -8,9 +8,7 @@
 
 🛠️ Turning ideas into functional wonders is my game.
 
-⚡ From microelectronics to power systems, I'm up for it all.
-
 🚀 Staying ahead in the tech game is my mission.
 
-🌐 Let's connect and dive into the ECE world together!
+🌐 Let's connect and dive into the ELECTRONIC COMMUNICATION world together!
 
