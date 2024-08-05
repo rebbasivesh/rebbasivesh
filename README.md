@@ -23,5 +23,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> </p>
+<p align="left">
+  <a href="https://www.cadence.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Cadence_Logo.svg/1280px-Cadence_Logo.svg.png" alt="cadence" width="40" height="40"/>
+  </a>
+</p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rebbasivesh&" alt="rebbasivesh" /></p>
