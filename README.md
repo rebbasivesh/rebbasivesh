@@ -18,6 +18,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/rebbasivesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rebbasivesh" height="30" width="40" /></a>
+ <a href="https://linkedin.com/in/rebbasivesh" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rebbasivesh" height="30" width="40" />
+</a>
+
 </p>
 
 
@@ -25,13 +29,13 @@
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" style="margin-right: 20px;"/>
-  </a>  
+  </a>&nbsp;&nbsp; 
   <a href="https://www.cadence.com/en_US/home.html" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Cadence-Logo.svg" alt="cadence" width="90" height="90" style="margin-right: 20px;"/>
-  </a> 
+  </a>&nbsp;&nbsp;
   <a href="https://www.ni.com/en-in/shop/electronic-test-instrumentation/application-software-for-electronic-test-and-instrumentation-category/what-is-multisim.html" target="_blank" rel="noreferrer">
     <img src="https://digilent.com/blog/wp-content/uploads/2015/01/184_multisim_app_icon_ill.png" alt="multisim" width="40" height="40" style="margin-right: 20px;"/>
-  </a>
+  </a>&nbsp;&nbsp;
 </p>
 
 
