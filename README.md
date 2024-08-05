@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/rebbasivesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rebbasivesh" height="30" width="40" /></a>
- <a href="https://linkedin.com/in/rebbasivesh" target="blank">
+ <a href="[https://linkedin.com/in/rebbasivesh](https://www.linkedin.com/in/rebba-sivesh-a52559249/)" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rebbasivesh" height="30" width="40" />
 </a>
 
