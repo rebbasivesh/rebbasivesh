@@ -37,7 +37,12 @@
     <img src="https://digilent.com/blog/wp-content/uploads/2015/01/184_multisim_app_icon_ill.png" alt="multisim" width="40" height="40" style="margin-right: 20px;"/>
   </a>&nbsp;&nbsp;
 </p>
+📈 GitHub Activity
 
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rebbasivesh&" alt="rebbasivesh" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rebbasivesh&theme=tokyonight" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=rebbasivesh&show_icons=true&theme=tokyonight" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebbasivesh&layout=compact&theme=tokyonight" />
+</p>
