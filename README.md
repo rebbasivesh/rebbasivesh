@@ -40,7 +40,7 @@
 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rebbasivesh&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rebbasivesh&theme=tokyonight"/>
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=rebbasivesh&show_icons=true&theme=tokyonight" />
   <br><br>
