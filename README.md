@@ -36,7 +36,7 @@
   <a href="https://www.ni.com/en-in/shop/electronic-test-instrumentation/application-software-for-electronic-test-and-instrumentation-category/what-is-multisim.html" target="_blank" rel="noreferrer">
     <img src="https://digilent.com/blog/wp-content/uploads/2015/01/184_multisim_app_icon_ill.png" alt="multisim" width="40" height="40" style="margin-right: 20px;"/>
   </a>&nbsp;&nbsp;
-  <a href="[https://www.arduino.cc/" target="_blank" rel="noreferrer](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html)">
+  <a href="[https://[www.arduino.cc](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html)/" target="_blank" rel="noreferrer]">
     <img src="![download](https://github.com/user-attachments/assets/cd14285e-59e6-4b0d-8548-24ca15a46710)
 " alt="arduino" width="40" height="40" style="margin-right: 20px;"/>
   </a>&nbsp;&nbsp;
